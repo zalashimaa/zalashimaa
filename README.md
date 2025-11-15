@@ -87,9 +87,3 @@
 
 
  
- 
-</p>
-</p>
-<div align="center">
-   <img width=100% src= "https://github.com/zalashimaa/zalashimaa/blob/main/co___horrere-removebg-preview.png?raw=true"
-   </div>
