@@ -1,16 +1,17 @@
-## Hi there 👋
+   <p align = "center">
+    <img src = "https://komarev.com/ghpvc/?username=zalashimaa&style=plastic&color=13368f  " alt = "visits"/>
+   <div align="center">
 
-<!--
-**zalashimaa/zalashimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+   <img width=100% src="https://github.com/zalashimaa/zalashimaa/blob/main/F%C3%BCnf%20Tipps%20f%C3%BCr%20tolle%20Haut%20(1).gif?raw=true"
+       </div>
+
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+
+
+𝙷𝚎𝚕𝚕𝚘, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚂𝚊𝚋/𝚂𝚊𝚋𝚊𝚜𝚝𝚒𝚊𝚗 𝙸 𝚊𝚖 𝟷𝟾 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍 𝚊𝚗𝚍 𝙸 𝚊𝚖 𝚙𝚎𝚛𝚜𝚒𝚊𝚗 (𝙸𝚛𝚊𝚗). 𝙸 𝚊𝚖 𝙴𝙽𝙵𝙿 𝚊𝚗𝚍 𝙸 𝚒𝚗𝚜𝚊𝚗𝚎𝚕𝚢 𝚔𝚒𝚗 𝙽𝚒𝚔𝚘𝚕𝚊𝚒 𝚏𝚛𝚘𝚖 𝙱𝚂𝙳 !! 𝙸 𝚊𝚖 𝚊𝚕𝚜𝚘 𝚃𝙰𝙺𝙴𝙽 𝚊𝚗𝚍 𝚖𝚊𝚛𝚛𝚒𝚎𝚍 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚋𝚎𝚕𝚘𝚟𝚎𝚍 𝚑𝚞𝚜𝚋𝚊𝚗𝚍 𝚂𝚟𝚊𝚒𝚗 >⩊<♡
