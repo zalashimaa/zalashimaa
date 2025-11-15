@@ -59,11 +59,6 @@
 
 
  <a target="_blank" align="right">
-  <img align="left" top="500" height="200" width="160" alt="GIF" src="https://github.com/zalashimaa/zalashimaa/blob/main/tumblr-82d3f8791c505c9e6701440324cc1d39-7003daa4-250.webp?raw=true"
- >
-</a>
-
- <a target="_blank" align="right">
   <img align="left" top="500" height="200" width="160" alt="GIF" src="https://github.com/zalashimaa/zalashimaa/blob/main/Tumblr-l-104908947601957.gif?raw=true"
  >
 </a>
