@@ -34,9 +34,7 @@
   <img align="right" top="500" height="300" width="1000" alt="GIF" src="https://github.com/zalashimaa/zalashimaa/blob/main/F%C3%BCnf%20Tipps%20f%C3%BCr%20tolle%20Haut%20(3).gif?raw=true"  >
 </a>
 
-<a target="_blank" align="center">
-  <img align="center" top="500" height="200" width="160" alt="GIF" src="https://github.com/zalashimaa/zalashimaa/blob/main/kwjnhg.png?raw=true"   >
-</a>
+
 
 <a target="_blank" align="center">
   <img align="left" top="500" height="200" width="160" alt="GIF" src=
