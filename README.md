@@ -7,7 +7,7 @@
 
 <div align="center">
    <img width=100% src=  
-      <img width="1143" height="643" alt="image" src="https://github.com/user-attachments/assets/92392c1e-be19-4850-b829-b64af50060e0" />
+      "https://github.com/zalashimaa/zalashimaa/blob/main/descargar.png?raw=true"
        </div>
 
 ##
