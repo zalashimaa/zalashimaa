@@ -1,5 +1,5 @@
    <p align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=zalashimaa&style=plastic&color=66120c" alt = "visits"/>
+    <img src = "https://komarev.com/ghpvc/?username=zalashimaa&style=plastic&color=595959" alt = "visits"/>
    <div align="center">
 
 ##
