@@ -16,5 +16,5 @@
 
 </a>
 ⠀
-⠀　 ⠀𝐒AB ⋮  SHE/HER　PERSIAN - 18 - TAKEN!!
+⠀𝐒AB ⋮  SHE/HER　PERSIAN - 18 - TAKEN!!
          ₊  ◞　NIKOLAI #1 KINNIE
