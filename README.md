@@ -5,7 +5,7 @@
 
 ##
 
-𝐒𝐚𝐛 - 𝐄𝐢𝐠𝐡𝐭𝐞𝐞𝐧 - 𝐄𝐍𝐅𝐏 / 𝐍𝐢𝐤𝐨𝐥𝐚𝐢 𝐊𝐢𝐧𝐧𝐢𝐞 / 𝐏𝐞𝐫𝐬𝐢𝐚𝐧
+$${\color{lightblue}she \space / \space her \space .. .\space 18\space + \space\color{blue}taken \space \color{white} \space + \space \color{lightblue}nikolai \space kinnie}$$
 
 </a>
 ⠀
